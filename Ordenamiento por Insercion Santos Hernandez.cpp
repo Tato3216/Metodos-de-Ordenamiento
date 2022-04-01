@@ -24,12 +24,12 @@ int main(){
 		cadena[x] = aux;
 	}
 	
-	cout<<"Orden Ascendente: ";
+	cout<<"ORDEN ASCENDENTE: ";
 	for(i=0;i<5;i++){
 		cout<<cadena[i]<<" ";
 	}
 	
-	cout<<"\nOrden Descendente: ";
+	cout<<"\nORDEN DESCENDENTE: ";
 	for(i=4;i>=0;i--){
 		cout<<cadena[i]<<" ";
 	}

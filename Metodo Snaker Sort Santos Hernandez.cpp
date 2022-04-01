@@ -6,7 +6,7 @@
 using namespace std;
 int main (){
 	int i, k, derecha, izquierda, aux, n, a [30];
-	cout<<"Metodo de Ordenamiento: Shake Sort"<<endl;
+	cout<<"Metodo de Ordenamiento: SHAKE SORT"<<endl;
 	
 	    cout<<"Ingreso la cantidad de numeros a ingresar: "<<endl;
 	  cin>>n;
@@ -42,7 +42,7 @@ int main (){
 	  for(i=1;i<=n;i++)     
 	      cout<<"\t"<<a[i];
 	  cout<<endl<< "\t";
-	system ("pause");
+	system ("Pause");
 	return 0;
 	getch();
 }
